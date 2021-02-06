@@ -1,7 +1,7 @@
 <li class="list-group-item">
     <a href="{{ .Permalink }}"><span class="title">{{ .Title }}</span></a>
     <p>
-        {{ if .Params.category }} <span class="category">{{ .Params.category }}</span> {{ end }}
+        {{ if .Params.topics }} <span class="topic">{{ index .Params.topics 0 }}</span> {{ end }}
         {{ if .Params.Summary }} <span class="summary">{{.Params.Summary}}</span>{{ end }}
     </p>
 </li>

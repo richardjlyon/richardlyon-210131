@@ -1,19 +1,31 @@
 {{ define "main" }}
 
-<div class="index">
-    
-    {{ range (.Site.RegularPages.GroupByDate "January 2006") }}
-    {{ $posts := (where .Pages "Section" "essays")}}
-    {{ if gt (len $posts) 0 }}
-    <h1 class="fs-5 pt-4">{{ .Key | upper }}</h1>
-    {{ end }}
-    <ul class="list-group list-group-flush">
-    {{ range $posts }}
-        {{ partial "entry-description.html" . }}
-    {{ end }}
-    </ul>
-    {{ end }}
+<div class="row">
+    <div class="col-8 index">
+        <!-- Entry list -->
+        {{ range (.Site.RegularPages.GroupByDate "January 2006") }}
+        {{ $posts := (where .Pages "Section" "essays")}}
+        {{ if gt (len $posts) 0 }}
+        <h1 class="fs-5 pt-4">{{ .Key | upper }}</h1>
+        {{ end }}
+        <ul class="list-group list-group-flush">
+            {{ range $posts }}
+            {{ partial "entry-description.html" . }}
+            {{ end }}
+        </ul>
+        {{ end }}
+    </div>
+    <div class="col topics">
+        <!-- Topic list -->
+        <h2>Topics:</h2>
+        <ul class="list-group list-group-flush">
+            {{ range .Site.Taxonomies.topics }}
+            <li class="list-group-item"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+            {{ end }}
+        </ul>
 
+
+    </div>
 </div>
 
 {{ end }}

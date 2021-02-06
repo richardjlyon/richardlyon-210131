@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <div class="single mx-auto">
-    {{ if .Params.category }}<p class="category text-uppercase text-center">{{ .Params.category }}</p>{{ end }}
+    {{ if .Params.topics }}<p class="category text-uppercase text-center">{{ index .Params.topics 0 }}</p>{{ end }}
     <h1 class="title fw-light text-center">{{ .Title }}</h1>
     <p class="date text-center my-5"><i class="me-1 bi bi-calendar me-3"></i>{{ .Date.Format "January 2, 2006" | upper }}</p>
     {{ if .Params.Summary }}<p class="fw-bold">{{ .Summary }}</p>{{ end }}

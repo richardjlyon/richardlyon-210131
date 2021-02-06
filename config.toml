@@ -3,7 +3,11 @@ languageCode = "en"
 title = "Richard Lyon"
 theme = "clancy"
 googleAnalytics = "UA-154184871-1"
- 
+
+[taxonomies]
+    topic = "topics"
+    tag = "tags"
+
 #################### default parameters ################################
 [params]
 # Meta data

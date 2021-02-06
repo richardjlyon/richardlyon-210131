@@ -39,7 +39,7 @@ figcaption {
                 font-family: 'GoudyOlSt BT';
                 font-weight: bold;
             }
-            .category {
+            .topic {
                 font-family: $font-family-sans-serif;
                 font-size: 0.8em;
                 color: $red;
@@ -48,6 +48,28 @@ figcaption {
                 font-style: italic;
                 font-size: 1em;
                 color: $gray-600;
+            }
+        }
+    }
+}
+
+.topics {
+    border: 0;
+    padding: 0.5rem 0rem;
+    h2 {
+        font-size: 1em;
+        font-weight: bold;
+    }
+    ul.list-group {
+        .list-group-item {
+            a {
+                color: $red;
+                font-family: $font-family-sans-serif;
+                font-size: 0.8em;
+                text-decoration: none;
+                :hover {
+                    text-decoration: underline;
+                }
             }
         }
     }

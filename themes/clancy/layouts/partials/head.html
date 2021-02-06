@@ -11,6 +11,6 @@
     {{ $options := (dict "targetPath" "bootstrap.css" "outputStyle" "expanded" "enableSourceMap" true) }}
     {{ $style := resources.Get "scss/custom.scss" | toCSS $options }}
     <link href="{{ $style.Permalink }}" rel="stylesheet" media="screen"/>
-\    {{ template "_internal/google_analytics.html" . }}
+    {{ template "_internal/google_analytics.html" . }}
     {{ template "_internal/google_analytics_async.html" . }}
 </head>
