@@ -1,0 +1,11 @@
+baseURL = "http://richardlyon.net/"
+languageCode = "en"
+title = "Richard Lyon"
+theme = "clancy"
+googleAnalytics = "UA-154184871-1"
+ 
+#################### default parameters ################################
+[params]
+# Meta data
+description = "The personal website of Richard Lyon"
+author = "Richard Lyon"

@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'GoudyOlSt BT';
+    src: url('GoudyOldStyleBT-Bold.woff2') format('woff2'),
+        url('GoudyOldStyleBT-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GoudyOlSt BT';
+    src: url('GoudyOldStyleBT-Roman.woff2') format('woff2'),
+        url('GoudyOldStyleBT-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GoudyOlSt BT';
+    src: url('GoudyOldStyleBT-Italic.woff2') format('woff2'),
+        url('GoudyOldStyleBT-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+

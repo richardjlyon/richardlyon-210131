@@ -1,0 +1,16 @@
+<head>
+    <meta charset="utf-8">
+    <title>{{ .Title | default .Site.Title }}</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
+    {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+    {{ hugo.Generator }}
+    <link href="/fonts/minion-pro/stylesheet.css" rel="stylesheet" media="screen">
+    <link href="/fonts/goudi-old-style/stylesheet.css" rel="stylesheet" media="screen">
+    {{ $options := (dict "targetPath" "bootstrap.css" "outputStyle" "expanded" "enableSourceMap" true) }}
+    {{ $style := resources.Get "scss/custom.scss" | toCSS $options }}
+    <link href="{{ $style.Permalink }}" rel="stylesheet" media="screen"/>
+\    {{ template "_internal/google_analytics.html" . }}
+    {{ template "_internal/google_analytics_async.html" . }}
+</head>
