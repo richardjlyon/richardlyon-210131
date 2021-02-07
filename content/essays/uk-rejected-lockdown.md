@@ -17,7 +17,7 @@ The "reasonable worst case" scenario assumed that up to 2.5% of those with sympt
 
 By early March, estimates[^IFR] of the fatality rate were showing far lower values than the scenario assumption in the Strategy (0.3% vs. 2.5%). By the middle of March 2020, the growth rate of new fatal infections (modelled from recorded deaths) had fallen to zero. 
 
-{{< image src="/essays/covid19-fatal-infections-vs-lockdown-events.PNG" caption="By the middle of March 2020, the rate of increase of new fatal infections had fallen to zero. Yet on March 23, the UK Government imposed mandatory business closures and stay-at-home orders.">}}
+{{< image src="/essays/images/covid19-fatal-infections-vs-lockdown-events.PNG" caption="By the middle of March 2020, the rate of increase of new fatal infections had fallen to zero. Yet on March 23, the UK Government imposed mandatory business closures and stay-at-home orders.">}}
 
 ## The reversal, and its costs
 
