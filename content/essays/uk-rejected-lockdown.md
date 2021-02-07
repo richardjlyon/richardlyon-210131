@@ -4,7 +4,7 @@ topics: ["COVID-19"]
 title: "What might have been"
 summary: The UK's pandemic preparedness strategy rejected lockdowns. Government says it kills more people than COVID-19. What changed?
 tags: 
-draft: true
+draft: false
 ---
 
 It's not possible to stop the spread of, or eradicate, infectious respiratory disease, and it's a waste of public health resources and capacity to try. There's very limited scientific evidence that restrictions on mass gatherings have any significant effect on virus transmission. Even a 99.9% international travel restriction might delay the pandemic wave by only a month or two, and there should be no plan to close borders. There's very little evidence of widespread benefit from the wearing by the public of facemasks.
