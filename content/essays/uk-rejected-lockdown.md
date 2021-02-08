@@ -2,7 +2,7 @@
 date: 2021-02-04T06:20:05Z
 topics: ["COVID-19"]
 title: "What might have been"
-summary: The UK's pandemic preparedness strategy rejected lockdowns. Government says it kills more people than COVID-19. What changed?
+summary: The UK's pandemic preparedness strategy rejected lockdowns. Government says lockdown kills more people than COVID-19. What changed?
 tags: 
 draft: false
 ---
