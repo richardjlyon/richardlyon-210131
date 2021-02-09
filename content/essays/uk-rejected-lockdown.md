@@ -53,7 +53,7 @@ Additionally:
 Decision-makers must not rely on the model to make a decision for them but be prepared to use it as part of a process in which other factors, such as the “riskiness” of a policy, are weighed
 {{< /blockquote >}}
 
-Time will show the catastrophic harm that this "risky" policy created. Sadly, it will be too late for the thousands who will die now of poverty and withheld medical treatments, for the thousands of owners of failed businesses, for the thousands of victims of depression and anxiety and mental illness, and for the thousands of children who's education and life prospects have been irreversiblty harmed. We can only wonder now at what might have been if Government had recalled Dame Hine's recommendation not to treat their advisors as astrologers. It's essential that they do so next time.
+Time will show the catastrophic harm that this "risky" policy created. Sadly, it will be too late for the thousands who will die now of poverty and withheld medical treatments, for the thousands of owners of failed businesses, for the thousands of victims of depression and anxiety and mental illness, and for the thousands of children who's education and life prospects have been irreversibly damaged. We can only wonder now at what might have been if Government had recalled Dame Hine's recommendation not to treat their advisors as astrologers. It's essential that they do so next time.
 
 
 [^SAGE2020]: Vallance, P., & Whitty, C. (n.d.). SAGE 4 minutes: Coronavirus (COVID-19) response, 4 February 2020 - GOV.UK. [link](https://www.gov.uk/government/publications/sage-minutes-coronavirus-covid-19-response-4-february-2020)
