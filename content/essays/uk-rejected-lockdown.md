@@ -21,7 +21,7 @@ By early March, estimates[^IFR] of the fatality rate were showing far lower valu
 
 ## The reversal, and its costs
 
-Yet on 16th March, the Health and Social Secretary Matt Hancock told the House of Commons that "unnecessary social contact" should cease. On 23rd March 2020, the Prime Minister Boris Johnson told people that they "must stay at home". The UK Government commenced a policy of mandatory business closures and stay-at-home notices that continue to this day. 
+Yet on 16th March, the Health and Social Secretary Matt Hancock told the House of Commons that "unnecessary social contact" should cease. On 23rd March 2020, the Prime Minister Boris Johnson told people that they "must stay at home". UK strategic pandemic planning that had stood for a decade was overturned. The UK Government commenced a policy of mandatory business closures and stay-at-home notices that continue to this day. 
 
 In July 2020, The Office of National Statistics published a summary[^ONS2020] of estimates of the deaths caused by the economic, medical, and mental health impacts of this new policy. It estimated that a 2 month lockdown would cause up to 200,000 such deaths, noting that _"...when morbidity is taken into account, the estimates for the health impacts from a lockdown and lockdown induced recession are greater in terms of [Quality Adjusted Life Years] than the direct COVID-19 deaths"_. 
 
