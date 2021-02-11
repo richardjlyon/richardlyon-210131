@@ -1,4 +1,6 @@
 <figure class="figure-img img-fluid rounded mb-4">
+    <a href='{{ .Get "src" }}' target="new">
     <img src="{{.Get "src" }}" alt="" class="img-fluid">
+    </a>
     <figcaption class="figure-caption pt-2">{{.Get "caption" }}</figcaption>
 </figure>

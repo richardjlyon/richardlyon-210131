@@ -1,8 +1,8 @@
 ---
 date: {{ .Date }}
-category: 
+topics: [""]
 title: "{{ replace .Name "-" " " | title }}"
 summary: 
-tags: 
+tags: []
 draft: true
 ---
