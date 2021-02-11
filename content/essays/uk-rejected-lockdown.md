@@ -15,7 +15,7 @@ The assumptions were set out in the Department of Health's *"UK Influenza Pandem
 
 The "reasonable worst case" scenario assumed that up to 2.5% of those with symptoms would die as a result of infection. It noted that, in both the 2009 and 1999/2000 influenza seasons, day-to-day life for most people continued largely unaffected. The objective, it said, was to _"Minimise the potential impact of a pandemic on society and the economy by promoting a return to normality and the restoration of disrupted services at the earliest opportunity"_. Government policy was unambiguous: _"The UK Government does not plan to close borders, stop mass gatherings or impose controls on public transport during any pandemic"_.
 
-By early March, estimates[^IFR] of the fatality rate were showing far lower values than the scenario assumption in the Strategy (0.3% vs. 2.5%). By the middle of March 2020, in response to the spontaneous change in public behaviour in response to news about the virus, the growth rate of new fatal infections (modelled from recorded deaths) had fallen from its high initial value to zero. 
+By early March, estimates[^IFR] of the fatality rate were showing far lower values than the scenario assumption in the Strategy (0.3% vs. 2.5%). By the middle of March 2020, responding to the natural change in public distancing behaviour as news of the virus spread, the growth rate of new fatal infections (modelled from recorded deaths) had fallen from its high initial value to zero. 
 
 {{< image src="/essays/images/covid19-fatal-infections-vs-lockdown-events.PNG" caption="By the middle of March 2020, the rate of increase of new fatal infections had fallen to zero. Yet on March 23, the UK Government imposed mandatory business closures and stay-at-home orders.">}}
 
