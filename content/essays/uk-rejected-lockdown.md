@@ -29,7 +29,7 @@ This raises a very obvious and important question: why did the UK Government, re
 
 The ONS study stated its reason: _"...without mitigations, a far larger number of people would have died from COVID-19"_. But this claim was based on two critical and wildly inaccurate assumptions: an estimate of an infection fatality rate of 4%, suggested by Professor Neil Ferguson at Imperial College London; and a lockdown duration of 2 months.
 
-When data about the much lower infection fatality rate emerged, the ONS didn't reduce its estimate of COVID-19 deaths. When the lockdown was extended from 3 weeks to "flatten the curve", to the Autumn to "protect the NHS", to the winter to "allow the vaccine rollout", it didn't increase its estimate of poverty deaths. 
+When data about the much lower infection fatality rate emerged, the ONS didn't reduce its estimate of COVID-19 deaths. When the lockdown was extended from 3 weeks to "flatten the curve", to the Autumn to "protect the NHS", to the winter to "allow the vaccine rollout", it didn't increase its estimate of poverty deaths. A decision that was made on the basis of an early and, as it turned out, catastrophically wrong assumption about a fatality rate was not revised when better information became available.
 
 But by using the relationship between Gross Domestic Product and life expectance, the Faculty of Public Risk at the University of Bristol estimated[^Thomas2020] that the recession created by the now 9% reduction in GDP would cause in the long run the loss of up to 560,000 lives in the UK due to lockdown policies. By comparison, they estimated that 45,000 lives (converted to equivalent life expectancies) would have been lost to COVID-19 if no mitigations were made.
 
