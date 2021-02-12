@@ -27,7 +27,7 @@ No society in human history has ever attempted to contain the spread of an infec
 
 In July 2020, The Office of National Statistics did publish a summary[^ONS2020] of estimates of the deaths caused by the economic, medical, and mental health impacts of this new policy. It estimated that a 2 month lockdown would cause up to 200,000 such deaths, noting that _"...when morbidity is taken into account, the estimates for the health impacts from a lockdown and lockdown induced recession are greater in terms of [Quality Adjusted Life Years] than the direct COVID-19 deaths"_. 
 
-This raises a very obvious and important question: why did the UK Government, responding to an infectious respiratory disease pandemic caused by a virus with one tenth of the lethality assumed in existing strategic plans, overturn their rejection of lockdowns and implement instead a policy estimated to be the cause of death of up to 200,000 people? 
+This raises a very obvious and important question: why did the UK Government, responding to an infectious respiratory disease pandemic caused by a virus with one tenth of the lethality assumed in existing strategic plans, overturn their rejection of lockdowns and implement instead an experimental policy estimated to be the cause of death of up to 200,000 people? 
 
 The ONS study stated its reason: _"...without mitigations, a far larger number of people would have died from COVID-19"_. But this claim was based on two critical and wildly inaccurate assumptions: an estimate of an infection fatality rate of 4%, suggested by Professor Neil Ferguson at Imperial College London; and a lockdown duration of 2 months.
 
