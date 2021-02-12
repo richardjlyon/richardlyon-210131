@@ -21,9 +21,11 @@ By early March, estimates[^IFR] of the fatality rate were showing far lower valu
 
 ## The reversal, and its costs
 
-Yet on 16th March, the Health and Social Secretary Matt Hancock told the House of Commons that "unnecessary social contact" should cease. On 23rd March 2020, the Prime Minister Boris Johnson told people that they "must stay at home". UK strategic pandemic planning that had stood for a decade was overturned. The UK Government commenced a policy of mandatory business closures and stay-at-home notices that continue to this day. 
+Yet on 16th March, the Health and Social Secretary Matt Hancock told the House of Commons that "unnecessary social contact" should cease. On 23rd March 2020, the Prime Minister Boris Johnson told people that they "must stay at home". 
 
-In July 2020, The Office of National Statistics published a summary[^ONS2020] of estimates of the deaths caused by the economic, medical, and mental health impacts of this new policy. It estimated that a 2 month lockdown would cause up to 200,000 such deaths, noting that _"...when morbidity is taken into account, the estimates for the health impacts from a lockdown and lockdown induced recession are greater in terms of [Quality Adjusted Life Years] than the direct COVID-19 deaths"_. 
+No society in human history has ever attempted to contain the spread of an infectious disease by closing down its economy and quarantining its healthy citizens under house arrest. Yet without any published scientific analysis, without any analysis of the social and economic consequence, and with no debate in its Parliament, the UK Government reversed decades of UK strategic pandemic planning, and commenced a policy of mandatory business closures and stay-at-home notices that continue to this day.
+
+In July 2020, The Office of National Statistics did publish a summary[^ONS2020] of estimates of the deaths caused by the economic, medical, and mental health impacts of this new policy. It estimated that a 2 month lockdown would cause up to 200,000 such deaths, noting that _"...when morbidity is taken into account, the estimates for the health impacts from a lockdown and lockdown induced recession are greater in terms of [Quality Adjusted Life Years] than the direct COVID-19 deaths"_. 
 
 This raises a very obvious and important question: why did the UK Government, responding to an infectious respiratory disease pandemic caused by a virus with one tenth of the lethality assumed in existing strategic plans, overturn their rejection of lockdowns and implement instead a policy estimated to be the cause of death of up to 200,000 people? 
 
