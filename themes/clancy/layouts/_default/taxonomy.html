@@ -1,0 +1,27 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Params.description }}
+<hr />
+<div class="row">
+    <!-- Entry list -->
+    <div class="col-8 index">
+        {{ range (.Pages.GroupByDate "January 2006") }}
+        {{ $posts := (where .Pages "Section" "essays")}}
+        {{ if gt (len $posts) 0 }}
+        <h1 class="fs-5 pt-4">{{ .Key | upper }}</h1>
+        {{ end }}
+        <ul class="list-group list-group-flush">
+            {{ range $posts }}
+            {{ partial "entry-description.html" . }}
+            {{ end }}
+        </ul>
+        {{ end }}
+    </div>
+
+    <!-- Topic list -->
+    <div class="col sidebar">
+    </div>
+</div>
+
+
+{{ end }}
