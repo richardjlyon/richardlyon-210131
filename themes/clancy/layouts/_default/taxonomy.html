@@ -1,6 +1,6 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ .Params.description }}
+<h1 class="topic-title">{{ .Title }}</h1>
+{{ .Params.description | markdownify }}
 <hr />
 <div class="row">
     <!-- Entry list -->
