@@ -13,9 +13,9 @@ Science is brutally simple. Either a hypothesis explains the past and predicts t
 
 The lockdown hypothesis supposes that mandatory business closures and compulsory stay-at-home orders ("lockdowns") provide significantly more control over the rate of spread of infection than can be obtained by people voluntarily altering their behaviour in response to common sense and straightforward guidance. If that is true, then at least three predictions must be observable: 
 
-1. When no measures are applied, the rate of infection should not fall;
-2. If measures are applied, the rate of infection should fall;
-3. If measures are lifted, the rate of infection should rise.
+1. When no measures are applied, the infection growth rate should not fall;
+2. If measures are applied, the infection growth rate should fall;
+3. If measures are lifted, the infection growth rate should rise.
 
 Since, by the Government's own estimates, lockdowns kill hundreds of thousands of people,[^whatmighthavebeen] if lockdowns didn't do these things, we wouldn't tolerate them. And the benefits would have to be so obvious that they hit you between the eyes.
 
