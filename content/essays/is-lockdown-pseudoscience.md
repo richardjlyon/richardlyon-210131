@@ -79,11 +79,11 @@ An intellectual crime. And, and time may show, perhaps a material one.
 ---
 
 ## Postscript 
-Infection rate in epidemics follow a well understood curve, described mathematically by a function called a _Gompertz_ function. The great majority of COVID-19 outbreaks followed it, including the UK, as shown in Rypdal (2020).[^rypdal] 
+Infection rate in epidemics follow a well understood curve, described mathematically by the _Gompertz_ function. The great majority of COVID-19 outbreaks, including the UKs, can be modelled accurately by it, as shown in Rypdal (2020).[^rypdal] 
 
-{{< image src="/essays/images/gompertz.png" caption="Figure 5. Fatal infection can be modelled by a Gompertz function. Arguably, some fatal infections were displaced by lockdown from March/April to May/June/July.">}}
+{{< image src="/essays/images/gompertz.png" caption="Figure 5. Fatal infection can be modelled by a Gompertz function. Arguably, a small number of fatal infections were displaced by lockdown from March/April into May/June/July.">}}
 
-There is an argument (and it is one that I accept) that the peak rate of fatal infection can be influenced by the effectiveness of changes in public behaviours that affect the transmissibility of the disease. To the extent that these prevent saturating hospital capacity, this would lower cumulative death rate. However, Bendavid, E. et al. (2021)[^bhattacharya2020] show that  enforcement offers no advantage over voluntary behaviour changes in the death rates experienced by countries implementing a wide range in severity of lockdown. Equally, while such considerations might alter the timing over a short period of the dates of deaths, there is no evidence (beside avoiding saturating hospitals) that they alter the total number, as visible in Figure 5.
+Rypdal (2020) show that the peak rate of fatal infection can be influenced by the effectiveness of changes in public behaviours that affect the transmissibility of the disease. To the extent that these prevent saturating hospital capacity, this would lower cumulative death rate. However, Bendavid, E. et al. (2021)[^bhattacharya2020] show that  enforcement offers no advantage over voluntary behaviour changes in the death rates experienced by countries implementing a wide range in severity of lockdown. Equally, while such considerations might alter the timing over a short period of the dates of deaths, there is no evidence (beside avoiding saturating hospitals) that they alter the total number, as visible in Figure 5.
 
 
 
