@@ -3,7 +3,7 @@ languageCode = "en"
 title = "Richard Lyon"
 theme = "clancy"
 googleAnalytics = "UA-154184871-1"
-disqusShortname = "richardlyon"
+disqusShortname = "richardjlyon"
 
 [taxonomies]
     topic = "topics"
