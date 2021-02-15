@@ -11,7 +11,7 @@
     {{ if .Params.Summary }}<p class="fw-bold lead my-5">{{ .Summary }}</p>{{ end }}
     {{ if .Params.banner }}<figure class="figure-img img-fluid rounded mb-4"><img src="{{ .Params.banner }}" alt="" class="img-fluid"></figure>{{ end }}
     {{ .Content}}
-    {{ if isset .Params "comments" }}{{ partial "disqus.html" . }}{{ end }}
+    {{ if .Params.comments }}{{ partial "disqus.html" . }}{{ end }}
 </div>
 
 {{ end }}
