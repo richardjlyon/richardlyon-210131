@@ -17,7 +17,7 @@ The lockdown hypothesis supposes that mandatory business closures and compulsory
 2. If measures are applied, the rate of infection should fall;
 3. If measures are lifted, the rate of infection should rise.
 
-Since, by the Government's own estimates, lockdowns kill hundreds of thousands of people,[^whatmighthavebeen] if lockdowns didn't do these things, they wouldn't inflict them on us And the phenomenon would have to be so obvious that it hits you between the eyes if you did.
+Since, by the Government's own estimates, lockdowns kill hundreds of thousands of people,[^whatmighthavebeen] if lockdowns didn't do these things, we wouldn't tolerate them. And the benefit would have to be so obvious that it hit you between the eyes.
 
 Science tests its predictions with experiments. To test these predictions, we might: take a population of 66 million people; introduce a novel lethal virus; apply and lift restrictions regularly; and look for evidence of a relationship between the date of changing restrictions and the rate of fatal infections. 
 
@@ -35,7 +35,7 @@ The Office for National Statistics doesn't publish data for the date on which pe
 
 To get our eye in before we look at whether lockdown events influenced the rate of fatal infection, it helps to understand some simple maths.
 
-Infectious disease is potentially dangerous because it's an exponential phenomenon. The daily increase or decrease in infections is proportional to the number already infected. Like bank interest rate, very small changes in infection rate give rise to very large changes over time in the number infected.  The problem is, when the changes are small and the time period is relatively short, it's very hard to see from a graph of daily infection numbers whether the infection rate is changing. Is the curvy graph more curvy, or less curvy? That's hard for our eyes to detect.
+Infectious disease is potentially dangerous because it's an exponential phenomenon. The daily increase or decrease in infections is proportional to the number already infected. Like bank interest rate, very small changes in infection rate give rise to very large changes over time in the number infected.  The problem is, since the changes are relatively small and the time period is relatively short, it's very hard to see from a graph of daily infection numbers whether the infection rate is changing. Is the curvy graph more curvy, or less curvy? That's hard for our eyes to detect.
 
 But there is a simple maths technique for making these tiny changes visible to our eyes. Because the dynamics are governed by power laws, when we take the log of the daily infection rate, tangent ('slope') in the resulting graph corresponds to the rate of infection at that moment.[^Hobbie2015] And our eye is very much better at seeing 'slope' than 'curviness'. When infection is rising, the slope points upward. If the rate of infection increases, the slope increases. If the infection growth rate is zero, the slope is level. If infection is falling, the slope points downward. If the rate of infection falls further, the slope steepens downward.
 
@@ -52,6 +52,8 @@ Figure 2 shows the standard (blue) and log-transformed (red) graphs of daily fat
 {{< image src="/essays/images/fig2.png" caption="Figure 3. Daily and cumulative fatal infection rates from the 17th February 2020 to the start of the first lockdown on 23rd March. The rate of infection growth fell continuously and, by the start of lockdown, had fallen to zero.">}}
 
 Prediction 1 says: _"When no controls are applied, the rate of infection should not fall"_. Remember---this means that a log-transformed plot of daily  fatal infection before lockdown is imposed should be a straight line. It's not. Figure 3 shows the fatal infection rate from the start of the epidemic until the first lockdown on 23 March. By the beginning of March, the slope of log-transformed infection rate was falling . By the night of Mr Johnstone's "stay at home" TV broadcast, it was almost horizontal. Without any mandatory controls in place, the infection growth rate had fallen to zero. This should not surprise you: after you heard about pangolins, did you wait until Mr Johnson told you to before washing your hands more often and taking more care around other people? No. Neither did 66 million other people.
+
+In fact, the infection rate in epidemics follows a well understood curve, described mathematically by a function called a _Gompertz_ function. The great majority of outbreaks, including the UK, followed it. For an analysis, see Rypdal (2002).[^rypdal] 
 
 {{< image src="/essays/images/fig3.png" caption="Figure 4. The infection rate didn't rise on any of the three occasions when restrictions were eased, and rose when mandatory use of masks was imposed.">}}
 
@@ -71,7 +73,7 @@ In pseudoscience, the goal isn't discovery of novel truths about the world, but 
 
 ## Is lockdown a pseudoscience?
 
-To the extent that it fails a test of its most basis propositions --- yes. Yet it is bitterly defended with a pseudoscientific worldview exemplified by the moral rectitude of believers such as George Monbiot --- a journalist who has never missed a pay check while dispensing from his comfortable metropolitan London home withering prescriptions about the need to ban scepticism.[^monbiot2021] They have no familiarity with the scientific method. Hungarian philosopher Imre Lakatos summed up the limitations of their world view thus:[^Lakatos1973] 
+Did any benefits of lockdown "hit you between the eyes"? Were any of its propositions visible in the data? No. Yet lockdowns are bitterly defended with a pseudoscientific worldview exemplified by the moral rectitude of believers such as George Monbiot --- a journalist who has never missed a pay check while dispensing from his comfortable metropolitan London home withering prescriptions about the need to ban scepticism.[^monbiot2021] They have no familiarity with the scientific method. Hungarian philosopher Imre Lakatos summed up the limitations of their world view thus:[^Lakatos1973] 
 
 {{< blockquote >}}
 Many philosophers have tried to solve the problem of demarcation in the following terms: a statement constitutes knowledge if sufficiently many people believe it sufficiently strongly. But the history of thought shows us that many people were totally committed to absurd beliefs. If the strengths of beliefs were a hallmark of knowledge, we should have to rank some tales about demons, angels, devils, and of heaven and hell as knowledge. Scientists, on the other hand, are very sceptical even of their best theories. Newton’s is the most powerful theory science has yet produced, but Newton himself never believed that bodies attract each other at a distance. So no degree of commitment to beliefs makes them knowledge. Indeed, the hallmark of scientific behaviour is a certain scepticism even towards one’s most cherished theories. Blind commitment to a theory is not an intellectual virtue: it is an intellectual crime.
@@ -86,6 +88,8 @@ An intellectual crime. And perhaps a material one.
 [^whatmighthavebeen]: Lyon, R. (2021, 4 February) What might have been. [link]({{< ref "/essays/uk-rejected-lockdown.md" >}})
 
 [^oath]: Hippocratic oath: _"I will abstain from all intentional wrong-doing and harm"_. See, for example: Wikepedia [link](https://en.wikipedia.org/wiki/Hippocratic_Oath)
+
+[^rypdal]: Rypdal, K. and Rypdal, M. (2020) ‘A parsimonious description and cross-country analysis of covid-19 epidemic curves’, International Journal of Environmental Research and Public Health, 17(18), pp. 1–23. doi: 10.3390/ijerph17186487.
 
 [^williams2020]: Williams, S. et al. (2020) ‘An Improved Measure of Deaths Due to Covid-19 in England and Wales’, SSRN Electronic Journal. doi: 10.2139/ssrn.3635548. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3635548)
 
