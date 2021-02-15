@@ -2,9 +2,8 @@
 <h1 class="topic-title">{{ .Title }}</h1>
 {{ .Params.description | markdownify }}
 <hr />
-<div class="row">
+<div class="index">
     <!-- Entry list -->
-    <div class="col-8 index">
         {{ range (.Pages.GroupByDate "January 2006") }}
         {{ $posts := (where .Pages "Section" "essays")}}
         {{ if gt (len $posts) 0 }}
@@ -16,12 +15,6 @@
             {{ end }}
         </ul>
         {{ end }}
-    </div>
-
-    <!-- Topic list -->
-    <div class="col sidebar">
-    </div>
 </div>
-
 
 {{ end }}

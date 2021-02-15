@@ -1,24 +1,17 @@
 {{ define "main" }}
 
-<div class="row">
+<div class="index">
     <!-- Entry list -->
-    <div class="col-8 index">
-        {{ range (.Site.RegularPages.GroupByDate "January 2006") }}
-        {{ $posts := (where .Pages "Section" "essays")}}
-        {{ if gt (len $posts) 0 }}
-        <h1 class="fs-5 pt-4">{{ .Key | upper }}</h1>
+    {{ range (.Site.RegularPages.GroupByDate "January 2006") }}
+    {{ $posts := (where .Pages "Section" "essays")}}
+    {{ if gt (len $posts) 0 }}
+    <h1 class="fs-5 pt-4">{{ .Key | upper }}</h1>
+    {{ end }}
+    <ul class="list-group list-group-flush">
+        {{ range $posts }}
+        {{ partial "entry-description.html" . }}
         {{ end }}
-        <ul class="list-group list-group-flush">
-            {{ range $posts }}
-            {{ partial "entry-description.html" . }}
-            {{ end }}
-        </ul>
-        {{ end }}
-    </div>
-
-    <!-- Topic list -->
-    <div class="col sidebar">
-    </div>
+    </ul>
+    {{ end }}
 </div>
-
 {{ end }}
