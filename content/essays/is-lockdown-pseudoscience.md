@@ -1,5 +1,5 @@
 ---
-date: 2021-02-15T09:16:08Z
+date: 2021-02-15T06:00:00Z
 topics: ["COVID-19"]
 title: "Is lockdown a pseudoscience?"
 summary: The lockdown is causing death, mental crisis, and decades of financial chaos. To be worthwhile, infection rates should at least rise and fall when lockdowns are lifted and applied. They don't.
