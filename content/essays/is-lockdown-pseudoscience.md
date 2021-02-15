@@ -81,7 +81,7 @@ An intellectual crime. And perhaps a material one.
 
 ## Postscript 
 
-Infection rate in epidemics follow a well understood curve, described mathematically by a function called a _Gompertz_ function. The great majority of outbreaks, including the UK, followed it and have been analysed in Rypdal (2002).[^rypdal] 
+Infection rate in epidemics follow a well understood curve, described mathematically by a function called a _Gompertz_ function. The great majority of outbreaks, including the UK, followed it and have been analysed in Rypdal (2020).[^rypdal] 
 
 {{< image src="/essays/images/gompertz.png" caption="Figure 5. Fatal infection can be modelled by a Gompertz function. Arguably some fatal infections were displaced by lockdown from March/April to May/June/July.">}}
 
