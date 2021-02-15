@@ -1,17 +1,24 @@
 {{ define "main" }}
 
-<div class="single mx-auto">
-    {{ if .Params.topics }}<p class="category text-uppercase text-center">{{ index .Params.topics 0 }}</p>{{ end }}
-    <h1 class="title fw-light text-center">{{ .Title }}</h1>
-    {{ if .Params.Date }}
-    <p class="date text-center my-5"><i class="me-1 bi bi-calendar me-3"></i>{{ .Date.Format "January 2, 2006" | upper }}</p>
-    {{ else }}
-    <p>&nbsp;</p>
-    {{ end }}
-    {{ if .Params.Summary }}<p class="fw-bold lead my-5">{{ .Summary }}</p>{{ end }}
-    {{ if .Params.banner }}<figure class="figure-img img-fluid rounded mb-4"><img src="{{ .Params.banner }}" alt="" class="img-fluid"></figure>{{ end }}
-    {{ .Content}}
-    {{ if .Params.comments }}{{ partial "disqus.html" . }}{{ end }}
+<div class="row">
+    <div class="col-2"></div>
+    
+    <div class="col-7 single ">
+        {{ if .Params.topics }}<p class="category text-uppercase text-center">{{ index .Params.topics 0 }}</p>{{ end }}
+        <h1 class="title fw-light text-center">{{ .Title }}</h1>
+        {{ if .Params.Date }}
+        <p class="date text-center my-5"><i class="me-1 bi bi-calendar me-3"></i>{{ .Date.Format "January 2, 2006" | upper }}</p>
+        {{ else }}
+        <p>&nbsp;</p>
+        {{ end }}
+        {{ if .Params.Summary }}<p class="fw-bold lead my-5">{{ .Summary }}</p>{{ end }}
+        {{ if .Params.banner }}<figure class="figure-img img-fluid rounded mb-4"><img src="{{ .Params.banner }}" alt="" class="img-fluid"></figure>{{ end }}
+        {{ .Content}}
+        <p class="my-5"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+        {{ if .Params.comments }}{{ partial "disqus.html" . }}{{ end }}
+    </div>
+
+    <div class="col-2"></div>
 </div>
 
 {{ end }}

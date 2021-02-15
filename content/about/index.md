@@ -3,7 +3,7 @@ title: About this site
 comments: false
 ---
 
-*Hello*. Welcome to my personal website. This is where I write about things that interest me, in a place where I can share it with others. Things that interest me include our energy predicament and, more recently, the peculiar phenomenon of Covid-19 hysteria.
+*Hello*. Welcome to my personal website. This is where I write about things that interest me, in a place where I can share it with others. Things that interest me include our energy predicament, the strange world of grievance-based identity politics and, more recently, the peculiar phenomenon of Covid-19 hysteria.
 
 Writing is how I clarify my thoughts. It's easy to have an opinion on things; it's harder to have an opinion that is coherent, logical, and evidence based. Often, I'll abandon an essay when I realise I still don't understand the topic well enough to publish it online. This is the value of this website to me.
 

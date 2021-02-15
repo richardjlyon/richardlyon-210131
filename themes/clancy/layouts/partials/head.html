@@ -12,4 +12,6 @@
     {{ $style := resources.Get "scss/custom.scss" | toCSS $options }}
     <link href="{{ $style.Permalink }}" rel="stylesheet" media="screen"/>
     {{ template "_internal/google_analytics_async.html" . }}
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
 </head>
