@@ -83,7 +83,7 @@ An intellectual crime. And perhaps a material one.
 
 Infection rate in epidemics follow a well understood curve, described mathematically by a function called a _Gompertz_ function. The great majority of outbreaks, including the UK, followed it and have been analysed in Rypdal (2020).[^rypdal] 
 
-{{< image src="/essays/images/gompertz.png" caption="Figure 5. Fatal infection can be modelled by a Gompertz function. Arguably some fatal infections were displaced by lockdown from March/April to May/June/July.">}}
+{{< image src="/essays/images/gompertz.png" caption="Figure 5. Fatal infection can be modelled by a Gompertz function. Arguably, some fatal infections were displaced by lockdown from March/April to May/June/July.">}}
 
 There is an argument, and it is one that I accept, that the peak rate of fatal infection can be influenced by the effectiveness of changes in public behaviours that affect the transmissibility of the disease. To the extent that these prevented saturating hospital capacity, this would lower cumulative death rate. However, Bendavid, E. et al. (2021)[^bhattacharya2020] show that  enforcement offers no advantage over voluntary behaviour changes in the death rates experienced by countries implementing different severities of lockdown. Equally, while such considerations might alter the timing over a short period of the dates of deaths, there is no evidence (beside a consideration of avoiding saturating hospitals) that they alter the total number, as visible in Figure 5.
 
