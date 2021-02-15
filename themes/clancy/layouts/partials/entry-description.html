@@ -1,6 +1,6 @@
 <li class="list-group-item">
+    {{ if .Params.topics }}<span class="topic">{{ index .Params.topics 0 }}</span>{{ end }}
     <a href="{{ .Permalink }}">
-        {{ if .Params.topics }} <span class="topic">{{ index .Params.topics 0 }}</span>{{ end }}
         <span class="title">{{ .Title }}</span></a>
     <p>{{ if .Params.Summary }} <span class="summary">{{.Params.Summary}}</span>{{ end }}</p>
 </li>
