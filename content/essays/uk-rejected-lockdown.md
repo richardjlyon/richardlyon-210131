@@ -4,6 +4,7 @@ topics: ["COVID-19"]
 title: "What might have been"
 summary: The UK's pandemic preparedness strategy rejected lockdowns. Government estimates they kill more people than COVID-19. What went wrong?
 tags: 
+banner: 
 draft: false
 ---
 

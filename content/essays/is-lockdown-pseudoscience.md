@@ -4,10 +4,10 @@ topics: ["COVID-19"]
 title: "Is lockdown a pseudoscience?"
 summary: The lockdown is causing death, mental crisis, and decades of financial chaos. To be worthwhile, infection rates should at least rise and fall when lockdowns are lifted and applied. They don't.
 tags: ["lockdown"]
+banner: "/essays/images/astrology.png"
+comments: true
 draft: false
 ---
-
-{{< image src="/essays/images/astrology.png" caption="">}}
 
 Science is brutally simple. Either a hypothesis explains the past and predicts the future, or it doesn't. If it does, we tentatively accept it. If it doesn't, we abandon it. If we don't abandon it, we call the result _pseudoscience_. Like astrology, or water divining. 
 
@@ -66,7 +66,7 @@ This is where science and pseudoscience diverge. In science, when we fail to fin
 In cults, they ban scepticism. But that is for another essay.
 
 ## Is lockdown a pseudoscience?
-Did any benefits of lockdown "hit you between the eyes"? Were any of its propositions visible in the data? No. Yet lockdowns are bitterly defended with a pseudoscientific worldview exemplified by the moral rectitude of believers such as George Monbiot --- a journalist who has never missed a pay check while, from his comfortable metropolitan home, dispensing intolerant prescriptions about the need to ban scepticism.[^monbiot2021] 
+Did any benefits of lockdown "hit you between the eyes"? Were any of its propositions visible in the data? No. Yet lockdowns are bitterly defended with a pseudoscientific worldview exemplified by the moral rectitude of believers such as George Monbiot --- a journalist who has never missed a pay check while, from his comfortable metropolitan home, dispensing intolerant prescriptions about the need to ban scepticism about his belief.[^monbiot2021] 
 
 Hungarian philosopher Imre Lakatos summed up the nature of their pseudoscientific world view thus:[^Lakatos1973] 
 

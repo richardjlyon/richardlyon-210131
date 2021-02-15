@@ -1,8 +1,8 @@
 {{ define "main" }}
 
 <div class="row">
+    <!-- Entry list -->
     <div class="col-8 index">
-        <!-- Entry list -->
         {{ range (.Site.RegularPages.GroupByDate "January 2006") }}
         {{ $posts := (where .Pages "Section" "essays")}}
         {{ if gt (len $posts) 0 }}
@@ -15,16 +15,9 @@
         </ul>
         {{ end }}
     </div>
-    <div class="col topics">
-        <!-- Topic list -->
-        <h2>Topics:</h2>
-        <ul class="list-group list-group-flush">
-            {{ range .Site.Taxonomies.topics }}
-            <li class="list-group-item"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
-            {{ end }}
-        </ul>
 
-
+    <!-- Topic list -->
+    <div class="col sidebar">
     </div>
 </div>
 

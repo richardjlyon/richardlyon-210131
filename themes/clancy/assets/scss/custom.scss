@@ -23,7 +23,17 @@ p.lead {
     font-family: $font-family-sans-serif;
 }
 
-.index {
+nav {
+    font-family: $font-family-sans-serif;
+    font-size: smaller;
+}
+
+footer {
+    font-family: $font-family-sans-serif;
+    font-size: 0.8rem;
+}
+
+div.index {
     ul.list-group {
         .list-group-item {
             border: 0;
@@ -45,7 +55,8 @@ p.lead {
             }
             .topic {
                 font-family: $font-family-sans-serif;
-                font-size: 0.8em;
+                text-transform: uppercase;
+                font-size: 0.65em;
                 color: $red;
             }
             .summary {
@@ -57,7 +68,7 @@ p.lead {
     }
 }
 
-.topics {
+div.sidebar {
     border: 0;
     padding: 0.5rem 0rem;
     h2 {
@@ -98,6 +109,8 @@ p.lead {
     }
     p.date {
         color: $gray-500;
+        font-size: 1rem;
+        font-family: $font-family-sans-serif;
     }
     i.bi {
         font-size: 0.8em;

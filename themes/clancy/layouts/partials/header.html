@@ -1,5 +1,28 @@
-<div class="nav-scroller py-1 mb-2">
-    <nav class="nav">
-        <a class="link-secondary" href="{{ site.BaseURL }}">{{ site.Title}}</a>
-    </nav>
-</div>
+<nav class="navbar navbar-expand-lg navbar-light mb-5 ps-3 bg-light">
+    <div class="container-fluid">
+        <span class="navbar-brand mb-0 h1" href="{{ site.BaseURL }}">{{ site.Title}}</span>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent"> 
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                {{ range site.Menus.main }}
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="{{ .URL | absURL }}">{{ .Name }}</a>
+                </li>
+                {{ end }}
+                <li  class="nav-item dropdown float-end">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Topics
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        {{ range .Site.Taxonomies.topics }}
+                        <li><a class="dropdown-item" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+                        {{ end }}
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+

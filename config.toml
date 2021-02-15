@@ -3,13 +3,27 @@ languageCode = "en"
 title = "Richard Lyon"
 theme = "clancy"
 googleAnalytics = "UA-154184871-1"
+disqusShortname = "richardlyon"
 
 [taxonomies]
     topic = "topics"
     tag = "tags"
 
+############################## navigation ###############################
+[menu]
+
+[[menu.main]]
+    name = "Home"
+    URL = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    URL = "about"
+    weight = 3
+
 #################### default parameters ################################
 [params]
-# Meta data
-description = "The personal website of Richard Lyon"
-author = "Richard Lyon"
+    # Meta data
+    description = "The personal website of Richard Lyon"
+    author = "Richard Lyon"
