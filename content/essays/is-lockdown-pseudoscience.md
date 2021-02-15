@@ -53,13 +53,11 @@ Figure 2 shows the standard (blue) and log-transformed (red) graphs of daily fat
 
 Prediction 1 says: _"When no controls are applied, the rate of infection should not fall"_. Remember---this means that a log-transformed plot of daily  fatal infection before lockdown is imposed should be a straight line. It's not. Figure 3 shows the fatal infection rate from the start of the epidemic until the first lockdown on 23 March. By the beginning of March, the slope of log-transformed infection rate was falling . By the night of Mr Johnstone's "stay at home" TV broadcast, it was almost horizontal. Without any mandatory controls in place, the infection growth rate had fallen to zero. This should not surprise you: after you heard about pangolins, did you wait until Mr Johnson told you to before washing your hands more often and taking more care around other people? No. Neither did 66 million other people.
 
-In fact, the infection rate in epidemics follows a well understood curve, described mathematically by a function called a _Gompertz_ function. The great majority of outbreaks, including the UK, followed it. For an analysis, see Rypdal (2002).[^rypdal] 
-
 {{< image src="/essays/images/fig3.png" caption="Figure 4. The infection rate didn't rise on any of the three occasions when restrictions were eased, and rose when mandatory use of masks was imposed.">}}
 
 Prediction 2 says: *"If controls are applied, the rate of infection should fall"*.  Figure 4 shows the period from imposition of controls on 23rd March until the annual rise in seasonal respiratory infection that begins every year at the start of autumn. A 4 month fall in infections at a constant rate was preceded by the imposition of controls. But *that* was preceded by the rapid fall in the growth rate from a high value to zero before the start of lockdown #1 without any controls. Such coincidences are the engine of the tabloid horoscope. 
 
-At the end of the summer, the Government introduced mandatory mask wearing. Because of the sensitivity of log-transformed data, it is possible to see changes in the rate of infection growth around that time. However, by that time, fatal infections had fallen to fewer than 100 per day, excess mortality had fallen below the 5 year average, and the UK was experiencing the highest heatwave excess mortality since 2003. ONS notes: _"Further work is required to explore how the concurrent risk of COVID-19 and heatwaves may have intersected to amplify these impacts"_.[^onsheatwave]
+At the end of the summer, the Government introduced mandatory mask wearing. Because of the sensitivity of log-transformed data, it is possible to see changes in the rate of infection growth around that time. However, by that time, fatal infections had fallen to fewer than 100 per day, excess mortality had fallen below the 5 year average, and the UK was experiencing the highest heatwave excess mortality since 2003. ONS notes: _"Further work is required to explore how the concurrent risk of COVID-19 and heatwaves may have intersected to amplify these impacts"_.[^onsheatwave] 
 
 Prediction 3 says: _"If controls are lifted, the rate of infection should rise"_. Here, the perception of a Government clown show driving a bus with a disconnected steering wheel is starkest. On three occasions (Figure 4 again), it lifted controls: the partial lifting of lockdown #1 on May 10th; reopening of retail around June 15th; and reopening the country on July 4th. In theory, the infection rate should have risen sharply on each occasion. It didn't on any occasion. The virus cleared the population in the way viruses have done for millions of years--at its own pace.
 
@@ -80,6 +78,16 @@ Many philosophers have tried to solve the problem of demarcation in the followin
 {{< /blockquote >}}
 
 An intellectual crime. And perhaps a material one.
+
+## Postscript 
+
+Infection rate in epidemics follow a well understood curve, described mathematically by a function called a _Gompertz_ function. The great majority of outbreaks, including the UK, followed it and have been analysed in Rypdal (2002).[^rypdal] 
+
+{{< image src="/essays/images/gompertz.png" caption="Figure 5. Fatal infection can be modelled by a Gompertz function. Arguably some fatal infections were displaced by lockdown from March/April to May/June/July.">}}
+
+There is an argument, and it is one that I accept, that the peak rate of fatal infection can be influenced by the effectiveness of changes in public behaviours that affect the transmissibility of the disease. To the extent that these prevented saturating hospital capacity, this would lower cumulative death rate. However, Bendavid, E. et al. (2021)[^bhattacharya2020] show that  enforcement offers no advantage over voluntary behaviour changes in the death rates experienced by countries implementing different severities of lockdown. Equally, while such considerations might alter the timing over a short period of the dates of deaths, there is no evidence (beside a consideration of avoiding saturating hospitals) that they alter the total number, as visible in Figure 5.
+
+
 
 
 
@@ -102,3 +110,5 @@ An intellectual crime. And perhaps a material one.
 [^monbiot2021]: Monbiot, G. (2021, January 27). Covid lies cost lives – we have a duty to clamp down on them. The Guardian. [link](https://www.theguardian.com/commentisfree/2021/jan/27/covid-lies-cost-lives-right-clamp-down-misinformation)
 
 [^Lakatos1973]: Lakatos, I. (1980). The Methodology of Scientific Research Programmes: Volume 1. Cambridge University Press. For a fascinating lecture by Lakatos on the difference between science and pseudoscience, listen to his BBC Radio Talk here: [link](https://www.lse.ac.uk/philosophy/science-and-pseudoscience-overview-and-transcript/)
+
+[^bhattacharya2020]: Bendavid, E. et al. (2021) ‘Assessing Mandatory Stay‐at‐Home and Business Closure Effects on the Spread of COVID‐19’, European Journal of Clinical Investigation, pp. 0–3. doi: 10.1111/eci.13484.
